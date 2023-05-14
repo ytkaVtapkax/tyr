@@ -860,7 +860,10 @@ section {
 }
   
 .filter-controls {
-  font-size: 1em;
+  font-size: 15px;
+  }
+  .controls-label {
+    font-size: 15px;
   }
   
 .header__logo{
