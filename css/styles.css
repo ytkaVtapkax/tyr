@@ -845,7 +845,7 @@ line-height: 1.5;
 }
 
 /*Адаптация под смартфон*/
-@media only screen and (min-width : 375px) and (max-width : 767px) {
+@media only screen and (max-width : 767px) {
 
 section {
     padding: 60px 30px;
