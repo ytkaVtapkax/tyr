@@ -856,7 +856,7 @@ section {
     flex-direction: column;
   }
 .header__logo, .header__phone {
-  font-size: 1.3em;
+  font-size: 1em;
 }
   
 .header__logo{
