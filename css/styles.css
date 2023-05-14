@@ -858,9 +858,11 @@ section {
 .header__logo, .header__phone {
   font-size: 1.3em;
 }
-.nav {
+  
+.filter-controls {
   font-size: 1em;
   }
+  
 .header__logo{
     text-align: center;
     margin-bottom: 20px;
