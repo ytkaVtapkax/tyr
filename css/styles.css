@@ -857,6 +857,7 @@ section {
   }
 .header__logo, .header__phone {
   font-size: 1em;
+  padding: 10px;
 }
   
 .header__logo{
